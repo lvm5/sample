@@ -32,8 +32,8 @@
 		F5BB1D382C7EC5FA00A66A43 = {
 			isa = PBXGroup;
 			children = (
-				F5BB1D432C7EC5FA00A66A43 /* Sample */,
 				F5BB1D422C7EC5FA00A66A43 /* Products */,
+				F5BB1D432C7EC5FA00A66A43 /* Sample */,
 			);
 			sourceTree = "<group>";
 		};
